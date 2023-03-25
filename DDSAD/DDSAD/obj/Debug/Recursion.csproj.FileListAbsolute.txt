@@ -1,0 +1,8 @@
+D:\DDSAD\DDSAD\DDSAD\bin\Debug\DDSAD.exe.config
+D:\DDSAD\DDSAD\DDSAD\bin\Debug\DDSAD.exe
+D:\DDSAD\DDSAD\DDSAD\bin\Debug\DDSAD.pdb
+D:\DDSAD\DDSAD\DDSAD\obj\Debug\Recursion.csproj.AssemblyReference.cache
+D:\DDSAD\DDSAD\DDSAD\obj\Debug\Recursion.csproj.SuggestedBindingRedirects.cache
+D:\DDSAD\DDSAD\DDSAD\obj\Debug\Recursion.csproj.CoreCompileInputs.cache
+D:\DDSAD\DDSAD\DDSAD\obj\Debug\DDSAD.exe
+D:\DDSAD\DDSAD\DDSAD\obj\Debug\DDSAD.pdb
