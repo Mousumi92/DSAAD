@@ -106,18 +106,55 @@ namespace DDSAD
             //Console.ReadLine();
 
             //Binary Search
-            int[] arr = { 2, 4, 6, 10, 14, 18 };
-            int key = 18;
-            BinarySearch b = new BinarySearch();
-            bool keyFound = b.FindUsingBinarySearch(arr, 0, 5, key);
-            if (keyFound)
-            {
-                Console.WriteLine("Key is found");
-            }
-            else
-            {
-                Console.WriteLine("Key is not found");
-            }
+            //int[] arr = { 2, 4, 6, 10, 14, 18 };
+            //int key = 18;
+            //BinarySearch b = new BinarySearch();
+            //bool keyFound = b.FindUsingBinarySearch(arr, 0, 5, key);
+            //if (keyFound)
+            //{
+            //    Console.WriteLine("Key is found");
+            //}
+            //else
+            //{
+            //    Console.WriteLine("Key is not found");
+            //}
+            //Console.ReadLine();
+
+
+            //Recursion Day 4
+            //Reverse string
+            //char[] str = "Mousumi".ToCharArray();
+            //ReverseString r = new ReverseString();
+            //r.Reverse(str, 0, str.Length - 1);
+            //Console.WriteLine(str);
+            //Console.ReadLine();
+
+            //Reverse string using one pointer
+            //char[] str1 = "Mousumi".ToCharArray();
+            //ReverseStringUsingOnePointer rs = new ReverseStringUsingOnePointer();
+            //rs.ReverseUsingOnePointer(str1, 0);
+            //Console.WriteLine(str1);
+            //Console.ReadLine();
+
+            //Check if string is palindrome or not
+            //char[] str1 = "MOUSUMI".ToCharArray();
+            //CheckPalindromeString cp = new CheckPalindromeString();
+            //bool isPalindrome = cp.CheckPalindrome(str1, 0, str1.Length-1);
+            //if(isPalindrome)
+            //{
+            //    Console.WriteLine("String is palindrome");
+            //}
+            //else
+            //{
+            //    Console.WriteLine("String is not palindrome");
+            //}
+            //Console.ReadLine();
+
+            //Caculate power of a number
+            int a = 2, b = 10;
+            Exponent e = new Exponent();
+            int ans = e.CalculatePower(a, b);
+            Console.WriteLine(ans);
             Console.ReadLine();
         }
     }
