@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace DDSAD
 {
@@ -150,12 +151,51 @@ namespace DDSAD
             //}
             //Console.ReadLine();
 
-            //Caculate power of a number
-            int a = 2, b = 10;
-            Exponent e = new Exponent();
-            int ans = e.CalculatePower(a, b);
-            Console.WriteLine(ans);
+            //Calculate power of a number
+            //int a = 2, b = 10;
+            //Exponent e = new Exponent();
+            //int ans = e.CalculatePower(a, b);
+            //Console.WriteLine(ans);
+            //Console.ReadLine();
+
+            //Recursion Day 7
+            //Find subsets of an array
+            //int[] nums = {1,2,3};
+            //IList<IList<int>> ans = new List<IList<int>>();
+            ////if (nums == null || nums.Length == 0)
+            ////    Console.WriteLine(ans);
+            //List<int> output = new List<int>();
+            //int index = 0;
+            //Subsets s = new Subsets();
+            //s.FindSubsets(index, ans, nums, output);
+            //// Printing Subset
+            //for (int i = 0; i < ans.Count; i++)
+            //{
+            //    for (int j = 0; j < ans[i].Count; j++)
+            //    {
+            //        Console.Write(ans[i][j]);
+            //    }
+            //    Console.WriteLine();
+            //}
+
             Console.ReadLine();
+
+            //Find subsequences of a string
+
+            //string str = "abc";
+            //IList<string> ans = new List<string>();
+            //string output = "";
+            //int index = 0;
+
+            //SubsequencesOfString sub = new SubsequencesOfString();
+            //sub.FindSubsequences(index, ans, str, output);
+            //// Printing Subset
+            //for (int i = 0; i < ans.Count; i++)
+            //{
+            //    Console.Write(ans[i] + " ");              
+            //    Console.WriteLine();
+            //}
+            //Console.ReadLine();
         }
     }
 }

@@ -58,6 +58,8 @@
     <Compile Include="ReverseString.cs" />
     <Compile Include="ReverseStringUsingOnePointer.cs" />
     <Compile Include="SayDigits.cs" />
+    <Compile Include="SubsequencesOfString.cs" />
+    <Compile Include="Subsets.cs" />
     <Compile Include="SumOfArrayElements.cs" />
     <Compile Include="WalkingExample.cs" />
   </ItemGroup>
