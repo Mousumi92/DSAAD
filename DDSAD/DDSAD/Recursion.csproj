@@ -52,6 +52,7 @@
     <Compile Include="Fibonacci.cs" />
     <Compile Include="IsArraySorted.cs" />
     <Compile Include="LinearSearch.cs" />
+    <Compile Include="PhonKeypadProblem.cs" />
     <Compile Include="PowerOfn.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
