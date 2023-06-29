@@ -1,0 +1,8 @@
+D:\DDSAD\DDSAD\BitwiseOperators\bin\Debug\BitwiseOperators.exe.config
+D:\DDSAD\DDSAD\BitwiseOperators\bin\Debug\BitwiseOperators.exe
+D:\DDSAD\DDSAD\BitwiseOperators\bin\Debug\BitwiseOperators.pdb
+D:\DDSAD\DDSAD\BitwiseOperators\obj\Debug\BitwiseOperators.csproj.AssemblyReference.cache
+D:\DDSAD\DDSAD\BitwiseOperators\obj\Debug\BitwiseOperators.csproj.SuggestedBindingRedirects.cache
+D:\DDSAD\DDSAD\BitwiseOperators\obj\Debug\BitwiseOperators.csproj.CoreCompileInputs.cache
+D:\DDSAD\DDSAD\BitwiseOperators\obj\Debug\BitwiseOperators.exe
+D:\DDSAD\DDSAD\BitwiseOperators\obj\Debug\BitwiseOperators.pdb

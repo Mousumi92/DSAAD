@@ -1,0 +1,8 @@
+D:\DDSAD\DDSAD\LoopsAndPatterns\bin\Debug\LoopsAndPatterns.exe.config
+D:\DDSAD\DDSAD\LoopsAndPatterns\bin\Debug\LoopsAndPatterns.exe
+D:\DDSAD\DDSAD\LoopsAndPatterns\bin\Debug\LoopsAndPatterns.pdb
+D:\DDSAD\DDSAD\LoopsAndPatterns\obj\Debug\LoopsAndPatterns.csproj.AssemblyReference.cache
+D:\DDSAD\DDSAD\LoopsAndPatterns\obj\Debug\LoopsAndPatterns.csproj.SuggestedBindingRedirects.cache
+D:\DDSAD\DDSAD\LoopsAndPatterns\obj\Debug\LoopsAndPatterns.csproj.CoreCompileInputs.cache
+D:\DDSAD\DDSAD\LoopsAndPatterns\obj\Debug\LoopsAndPatterns.exe
+D:\DDSAD\DDSAD\LoopsAndPatterns\obj\Debug\LoopsAndPatterns.pdb

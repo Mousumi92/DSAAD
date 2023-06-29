@@ -5,6 +5,12 @@ VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Recursion", "DDSAD\Recursion.csproj", "{4B0CE79D-4301-41BB-978F-EE94AF2E17F6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoopsAndPatterns", "LoopsAndPatterns\LoopsAndPatterns.csproj", "{CA20D30C-36F2-4E6D-A1B8-B41BD85A6D3D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BitwiseOperators", "BitwiseOperators\BitwiseOperators.csproj", "{D9E2741E-3B5A-406F-A2B0-C93F60B0CD8A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolvingLeetCodeQuestions", "SolvingLeetCodeQuestions\SolvingLeetCodeQuestions.csproj", "{756C1F86-5477-42E5-B8EB-281C1F34C1CB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +21,18 @@ Global
 		{4B0CE79D-4301-41BB-978F-EE94AF2E17F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4B0CE79D-4301-41BB-978F-EE94AF2E17F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4B0CE79D-4301-41BB-978F-EE94AF2E17F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA20D30C-36F2-4E6D-A1B8-B41BD85A6D3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA20D30C-36F2-4E6D-A1B8-B41BD85A6D3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA20D30C-36F2-4E6D-A1B8-B41BD85A6D3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA20D30C-36F2-4E6D-A1B8-B41BD85A6D3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9E2741E-3B5A-406F-A2B0-C93F60B0CD8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9E2741E-3B5A-406F-A2B0-C93F60B0CD8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9E2741E-3B5A-406F-A2B0-C93F60B0CD8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9E2741E-3B5A-406F-A2B0-C93F60B0CD8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{756C1F86-5477-42E5-B8EB-281C1F34C1CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{756C1F86-5477-42E5-B8EB-281C1F34C1CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{756C1F86-5477-42E5-B8EB-281C1F34C1CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{756C1F86-5477-42E5-B8EB-281C1F34C1CB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

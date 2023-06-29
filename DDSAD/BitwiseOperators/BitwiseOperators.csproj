@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{4B0CE79D-4301-41BB-978F-EE94AF2E17F6}</ProjectGuid>
+    <ProjectGuid>{D9E2741E-3B5A-406F-A2B0-C93F60B0CD8A}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>DDSAD</RootNamespace>
-    <AssemblyName>DDSAD</AssemblyName>
+    <RootNamespace>BitwiseOperators</RootNamespace>
+    <AssemblyName>BitwiseOperators</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,27 +43,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="BinarySearch.cs" />
-    <Compile Include="CheckPalindromeString.cs" />
-    <Compile Include="ClimbStairs.cs" />
-    <Compile Include="Counting.cs" />
-    <Compile Include="Exponent.cs" />
-    <Compile Include="Factorial.cs" />
-    <Compile Include="Fibonacci.cs" />
-    <Compile Include="IsArraySorted.cs" />
-    <Compile Include="LinearSearch.cs" />
-    <Compile Include="PermutationsOfAString.cs" />
-    <Compile Include="PhonKeypadProblem.cs" />
-    <Compile Include="PowerOfn.cs" />
+    <Compile Include="BinaryToDecimal.cs" />
+    <Compile Include="DecimalToBinary.cs" />
+    <Compile Include="NegativeDecimalToBinary.cs" />
+    <Compile Include="NumberOf1Bits.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="ReverseString.cs" />
-    <Compile Include="ReverseStringUsingOnePointer.cs" />
-    <Compile Include="SayDigits.cs" />
-    <Compile Include="SubsequencesOfString.cs" />
-    <Compile Include="Subsets.cs" />
-    <Compile Include="SumOfArrayElements.cs" />
-    <Compile Include="WalkingExample.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
