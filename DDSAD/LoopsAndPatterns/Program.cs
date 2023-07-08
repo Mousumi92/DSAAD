@@ -73,7 +73,7 @@ namespace LoopsAndPatterns
             //{
             //    if(n % i == 0)
             //    {
-            //        Console.WriteLine(" Not Prime for " +i );
+            //        Console.WriteLine(" Not Prime for " + i );
             //    }
             //    else
             //    {

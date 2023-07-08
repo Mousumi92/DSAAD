@@ -1,0 +1,8 @@
+D:\DDSAD\DDSAD\SwitchAndFunctions\obj\Debug\SwitchAndFunctions.csproj.AssemblyReference.cache
+D:\DDSAD\DDSAD\SwitchAndFunctions\obj\Debug\SwitchAndFunctions.csproj.SuggestedBindingRedirects.cache
+D:\DDSAD\DDSAD\SwitchAndFunctions\obj\Debug\SwitchAndFunctions.csproj.CoreCompileInputs.cache
+D:\DDSAD\DDSAD\SwitchAndFunctions\bin\Debug\SwitchAndFunctions.exe.config
+D:\DDSAD\DDSAD\SwitchAndFunctions\bin\Debug\SwitchAndFunctions.exe
+D:\DDSAD\DDSAD\SwitchAndFunctions\bin\Debug\SwitchAndFunctions.pdb
+D:\DDSAD\DDSAD\SwitchAndFunctions\obj\Debug\SwitchAndFunctions.exe
+D:\DDSAD\DDSAD\SwitchAndFunctions\obj\Debug\SwitchAndFunctions.pdb

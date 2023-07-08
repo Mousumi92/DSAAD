@@ -46,5 +46,8 @@ namespace SolvingLeetCodeQuestions
         //        return false;
         //    return (n & (n-1)) == 0
         //}
+
+        //Approach 4
+        //If no of set bits is equal to 1, then it is a power of 2
     }
 }

@@ -1,0 +1,8 @@
+D:\DDSAD\DDSAD\Arrays\bin\Debug\Arrays.exe.config
+D:\DDSAD\DDSAD\Arrays\bin\Debug\Arrays.exe
+D:\DDSAD\DDSAD\Arrays\bin\Debug\Arrays.pdb
+D:\DDSAD\DDSAD\Arrays\obj\Debug\Arrays.csproj.AssemblyReference.cache
+D:\DDSAD\DDSAD\Arrays\obj\Debug\Arrays.csproj.SuggestedBindingRedirects.cache
+D:\DDSAD\DDSAD\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
+D:\DDSAD\DDSAD\Arrays\obj\Debug\Arrays.exe
+D:\DDSAD\DDSAD\Arrays\obj\Debug\Arrays.pdb
